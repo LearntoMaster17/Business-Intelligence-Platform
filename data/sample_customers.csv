@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,company,address,city,state,zip_code,country,registration_date,customer_type,credit_limit,total_spent
+101,Michael,Johnson,michael.johnson@email.com,555-0101,TechCorp Solutions,123 Main St,New York,NY,10001,USA,2023-01-15,Premium,10000.00,5249.97
+102,Sarah,Williams,sarah.williams@email.com,555-0102,Global Industries,456 Oak Ave,Los Angeles,CA,90210,USA,2023-02-20,Standard,5000.00,649.49
+103,David,Brown,david.brown@email.com,555-0103,Innovation Labs,789 Pine Rd,Chicago,IL,60601,USA,2023-03-10,Premium,15000.00,429.95
+104,Emily,Davis,emily.davis@email.com,555-0104,Future Systems,321 Elm St,Houston,TX,77001,USA,2023-04-05,Standard,7500.00,838.99
+105,James,Miller,james.miller@email.com,555-0105,Dynamic Corp,654 Maple Dr,Phoenix,AZ,85001,USA,2023-05-12,Premium,12000.00,1019.97
+106,Lisa,Wilson,lisa.wilson@email.com,555-0106,Smart Solutions,987 Cedar Ln,Philadelphia,PA,19101,USA,2023-06-18,Standard,6000.00,1059.97
+107,Robert,Moore,robert.moore@email.com,555-0107,Tech Innovations,147 Birch St,San Antonio,TX,78201,USA,2023-07-22,Premium,8000.00,399.94
+108,Jennifer,Taylor,jennifer.taylor@email.com,555-0108,Modern Enterprises,258 Spruce Ave,San Diego,CA,92101,USA,2023-08-14,Business,20000.00,2898.00
+109,Christopher,Anderson,chris.anderson@email.com,555-0109,Advanced Systems,369 Willow Rd,Dallas,TX,75201,USA,2023-09-30,Premium,11000.00,849.97
+110,Amanda,Thomas,amanda.thomas@email.com,555-0110,Creative Solutions,741 Aspen Dr,San Jose,CA,95101,USA,2023-10-25,Standard,4500.00,529.97
+111,Matthew,Jackson,matthew.jackson@email.com,555-0111,Digital Dynamics,852 Poplar St,Austin,TX,73301,USA,2023-11-08,Premium,9500.00,369.92
+112,Michelle,White,michelle.white@email.com,555-0112,Elite Enterprises,963 Hickory Ln,Jacksonville,FL,32099,USA,2023-12-03,Business,18000.00,2098.98
+113,Daniel,Harris,daniel.harris@email.com,555-0113,NextGen Solutions,159 Walnut Ave,Fort Worth,TX,76101,USA,2024-01-17,Premium,13000.00,629.93
+114,Jessica,Martin,jessica.martin@email.com,555-0114,Quantum Systems,753 Chestnut Rd,Columbus,OH,43085,USA,2024-02-14,Standard,5500.00,649.97
+115,Kevin,Thompson,kevin.thompson@email.com,555-0115,Synergy Corp,486 Magnolia Dr,Charlotte,NC,28201,USA,2024-03-21,Premium,10500.00,949.95
+116,Rachel,Garcia,rachel.garcia@email.com,555-0116,Premier Technologies,357 Dogwood St,Seattle,WA,98101,USA,2024-04-09,Standard,6500.00,0.00
+117,Brandon,Martinez,brandon.martinez@email.com,555-0117,Apex Solutions,642 Redwood Ave,Denver,CO,80201,USA,2024-05-16,Business,22000.00,0.00
+118,Nicole,Robinson,nicole.robinson@email.com,555-0118,Stellar Systems,135 Cypress Ln,Washington,DC,20001,USA,2024-06-23,Premium,14000.00,0.00
+119,Ryan,Clark,ryan.clark@email.com,555-0119,Pinnacle Corp,791 Sycamore Rd,Boston,MA,02101,USA,2024-07-11,Standard,7000.00,0.00
+120,Stephanie,Rodriguez,stephanie.rodriguez@email.com,555-0120,Vertex Technologies,468 Cottonwood Dr,Nashville,TN,37201,USA,2024-08-28,Premium,16000.00,0.00
